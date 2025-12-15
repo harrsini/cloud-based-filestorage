@@ -13,7 +13,7 @@ const cognitoAuthConfig = {
   response_type: "code",
   scope: "openid email",
 
-  // ✅ optional but safe
+ 
   automaticSilentRenew: true,
 };
 
