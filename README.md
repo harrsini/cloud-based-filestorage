@@ -84,12 +84,9 @@ cloud-file-storage/
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/your-username/cloud-file-storage.git
 cd cloud-file-storage
 2️⃣ Frontend Setup
-bash
-Copy code
 cd frontend
 npm install
 npm run dev
