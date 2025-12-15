@@ -108,7 +108,6 @@ Configure API Gateway routes
 
 🔑 Environment Variables (Lambda)
 env
-Copy code
 BUCKET_NAME=your-s3-bucket
 METADATA_TABLE=your-dynamodb-table
 REGION=us-east-1
@@ -146,6 +145,7 @@ React
 Vite
 
 JavaScript / Python
+
 ---
 
 ## 👤 Author
